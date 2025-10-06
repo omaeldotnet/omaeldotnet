@@ -3,6 +3,12 @@
 
 I'm Omaël, a CS novice from Québec, Canada
 
+💼 Currently working for a small technology company under a government contract, 
+maintaining and repairing RAIC (Restricted Area Identity Card) devices for CATSA 
+(Canadian Air Transport Security Authority).
+
+🛠️ In parallel, I run a small independent business where I handle a bit of everything—from electronics repair to recycling and reselling refurbished Cisco VoIP phones.
+
 
 
 
