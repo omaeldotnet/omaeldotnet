@@ -1,9 +1,10 @@
-## Hi there 👋
+## Hey hey (≧∇≦)ﾉ
 
-<!--
-**omaeldotnet/omaeldotnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Omaël, a CS novice from Québec, Canada
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
