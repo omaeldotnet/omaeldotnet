@@ -5,7 +5,7 @@ I'm Omaël, a CS novice from Québec, Canada
 
 🎓 Currently completing a DEC in Informatics at Cégep de Valleyfield
 
-💼 Currently working for a small technology company under a government contract, 
+💼 Currently working for a small tech company under a government contract, 
 maintaining and repairing RAIC (Restricted Area Identity Card) devices for CATSA 
 (Canadian Air Transport Security Authority).
 
