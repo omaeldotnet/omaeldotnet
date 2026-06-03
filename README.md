@@ -3,13 +3,13 @@
 
 I'm Omaël, a CS novice from Québec, Canada
 
-🎓 Currently completing a DEC in Informatics at Cégep de Valleyfield
+🎓 (soon-to-be) IT Graduate from Cégep de Valleyfield
 
-💼 Currently working for a small tech company under a government contract, 
-maintaining and repairing RAIC (Restricted Area Identity Card) devices for CATSA 
-(Canadian Air Transport Security Authority).
+💼 Currently interning for a MSP as an IT technician.
 
-🛠️ In parallel, I run a small independent business where I handle a bit of everything; from computer troubleshooting to recycling and reselling refurbished Cisco VoIP phones.
+🛠️ In parallel, I tinker with a network stack homelab and try to build small projects.
+
+🔣 HTML, CSS, JavaScript, C#, SQL, Java, Python, Swift.
 
 
 
